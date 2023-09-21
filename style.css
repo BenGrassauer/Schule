@@ -1,0 +1,36 @@
+h1 {
+    color:white;
+    font-size: 5em ;
+    text-align: center;
+    border: thick solid;
+    background-color: black;
+    border-color:white;
+    font-family: Garamond, serif;
+    }
+    body {
+      background-color: black;
+    }
+    
+    
+      h2 { 
+        color: teal;
+        background-color: lightgrey;
+        font-size: 4em;
+        border: thick solid;
+        text-align: center;
+        border-radius: 6em;
+        background-size: 2em;
+      }
+      h3 {
+        color:azure;
+        text-align: left;
+        font-Size: 3em;
+      }
+      
+    
+    
+        p {
+          color: lightgrey;
+          font-size: 2em;
+          font-family: 'Courier New', Courier, monospace;
+        }
