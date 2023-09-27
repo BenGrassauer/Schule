@@ -41,3 +41,17 @@ h1 {
           font-size: 3em;
           text-align:left;
         }
+        button#dererstebutton {
+          position: absolute;
+          left:auto;
+        }
+        button#derzweitebutton {
+          position: absolute;
+          left: auto;
+          bottom: 50%;
+        }
+        button#derdrittebutton {
+          position: absolute;
+          left: auto;
+          bottom: 38%;
+        }
