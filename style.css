@@ -44,6 +44,7 @@ h1 {
         button#dererstebutton {
           position: absolute;
           left:auto;
+          bottom: 62%;
         }
         button#derzweitebutton {
           position: absolute;
