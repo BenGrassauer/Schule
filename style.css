@@ -13,8 +13,8 @@ h1 {
     
     
       h2 { 
-        color: teal;
-        background-color: lightgrey;
+        color: lightblue;
+        background-color: darkslateblue;
         font-size: 4em;
         border: thick solid;
         text-align: center;
@@ -33,4 +33,11 @@ h1 {
           color: lightgrey;
           font-size: 2em;
           font-family: 'Courier New', Courier, monospace;
+        }
+        Button {
+          color: lightblue;
+          background-color: black;
+          font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+          font-size: 3em;
+          text-align:left;
         }
