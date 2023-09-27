@@ -56,3 +56,7 @@ h1 {
           left: auto;
           bottom: 38%;
         }
+        button:hover {
+          background-color: lightblue;
+          color: black;
+        }
