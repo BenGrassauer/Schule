@@ -1,0 +1,38 @@
+body {
+    background-color:grey;
+    color:rgb(235, 235, 235);
+    font-family:'Times New Roman', Times, serif;
+}
+    h1 {
+        font-family: 'Times New Roman', Times, serif;
+        font-size: 5em;
+        text-align:center;
+        top: 10%;
+        border: 10px;
+        background-color:grey;
+        border-color: white;
+        border: thick solid;
+    }
+    p {
+        color: grey;
+    }
+    button {
+        color: white;
+        background-color: black;
+        border:solid;
+        font-size: 3em;
+        transition: all 0.3s ease 0s;
+    }
+    button:hover {
+        transform: translateY(-7px);
+        color:black;
+        background-color: white;
+    }
+    button#eins{
+        position: absolute;
+        bottom: 62%;
+    }
+    button#zwei {
+        position: absolute;
+        bottom: 50%;
+    }

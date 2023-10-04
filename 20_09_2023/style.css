@@ -1,15 +1,18 @@
-h1 {
-    color:white;
-    font-size: 5em ;
-    text-align: center;
-    border: thick solid;
-    background-color: black;
-    border-color:white;
-    font-family: Garamond, serif;
-    }
-    body {
+body {
+  background-color: black;
+}
+
+  h1 {
+      color:white;
+      font-size: 5em ;
+      text-align: center;
+      border: thick solid;
       background-color: black;
-    }
+      border-color:white;
+      font-family: Garamond, serif;
+      }
+    
+    
     
     h3 {
         color:azure;
